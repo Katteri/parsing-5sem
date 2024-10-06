@@ -1,0 +1,1587 @@
+[
+{
+  "heading": "Efficient machine learning based techniques for fault detection and identification in spacecraft reaction wheel",
+  "authors": "T. S. Abdel AzizG. I. SalamaS. Hussein",
+  "date": "30 September 2024"
+},
+{
+  "heading": "Research on altitude adjustment performance of stratospheric airship based on thermodynamic-dynamic-pressure coupled",
+  "authors": "Jiwei TangShumin PuPeixi Yu",
+  "date": "22 September 2024"
+},
+{
+  "heading": "A trajectory prediction method for boost phase BM based on adaptive tracking and GPR",
+  "authors": "Fanjun ZengXiaoyan LiFansheng Chen",
+  "date": "16 September 2024"
+},
+{
+  "heading": "A comparison of adaptive optimizers for nonlinear aerodynamic modeling using flight test data",
+  "authors": "M. ElenchezhiyanAjit Kumar",
+  "date": "12 September 2024"
+},
+{
+  "heading": "Contemporary architecture of the satellite Global Ship Tracking (GST) systems, networks and equipment",
+  "authors": "Dimov Stojce Ilcev",
+  "date": "06 September 2024"
+},
+{
+  "heading": "Research on real-time trajectory optimization methods for stratospheric airships based on deep learning",
+  "authors": "Tianshu WangZhiqiang PengQuanbao Wang",
+  "date": "29 August 2024"
+},
+{
+  "heading": "Data-driven dynamic health index construction for diagnosis and prognosis of Engine Bleed Air system",
+  "authors": "Yilin WangHonghua ZhaoYuanxiang Li",
+  "date": "22 August 2024"
+},
+{
+  "heading": "Assessment of the hypersonic intake isolator and performance evaluation at various flight conditions",
+  "authors": "J. SandeepA. V. S. S. Kumara Swami Gupta",
+  "date": "20 August 2024"
+},
+{
+  "heading": "Liquid propellant sloshing characteristics and suppression in new-generation space vehicle",
+  "authors": "Peng-fei GuoZi-an WangChengxi Zhang",
+  "date": "18 August 2024"
+},
+{
+  "heading": "On the hysteretic response of mechanical strain induced by thermal stress in fastened metal-composite hybrid structures during a temperature cycle",
+  "authors": "Zhiyuan CongZhefeng YuDongjie Jiang",
+  "date": "03 August 2024"
+},
+{
+  "heading": "Advanced UAV system utilization of LQR and ESC techniques for flight control",
+  "authors": "Haci BaranIsmail BayezitAhmad Irham Jambak",
+  "date": "01 August 2024"
+},
+{
+  "heading": "Transient computational investigation on the ejection seat’s aerodynamic coefficients at subsonic Mach number",
+  "authors": "Md. Mahbubur RahmanVed PrakashD. G. Thakur",
+  "date": "24 July 2024"
+},
+{
+  "heading": "Effectiveness evaluation of shipboard manned/unmanned aerial vehicle synergy based on CFP-miner",
+  "authors": "Gechen WangLing PengGuoqing Wang",
+  "date": "11 July 2024"
+},
+{
+  "heading": "Enhancing multi-target detection in low SNR conditions",
+  "authors": "B. NeerajaN. V. Koteswara RaoB. Rajendra Naik",
+  "date": "08 July 2024"
+},
+{
+  "heading": "Modeling and PIL-based design for AGV flight control system",
+  "authors": "Mohamed Ibrahim MohamedEhab SafwatYehia Z. Elhalwagy",
+  "date": "02 July 2024"
+},
+{
+  "heading": "Application of digital image correlation in aerospace engineering: structural health monitoring of aircraft components",
+  "authors": "Ravindra MallyaAmol Kiran UchilAnand Pai",
+  "date": "02 July 2024"
+},
+{
+  "heading": "Investigation of pitching frequency impact on stability criteria for supersonic fin stabilized missile",
+  "authors": "Fatouh IbrahimMostafa KhalilM. Youssef",
+  "date": "26 June 2024"
+},
+{
+  "heading": "Prediction of burn rate of ammonium perchlorate–hydroxyl-terminated polybutadiene composite solid propellant using supervised regression machine learning algorithms",
+  "authors": "Dhruv A. SawantVijaykumar S. JattiK. Balaji",
+  "date": "17 June 2024"
+},
+{
+  "heading": "Dynamic output feedback control strategy for a satellite orbital model within negative-imaginary systems theory framework",
+  "authors": "Santosh Kumar ChoudharyShreesha Chokkadi",
+  "date": "13 June 2024"
+},
+{
+  "heading": "Optimization of hoop ribs for maximum compressive buckling strength in lattice structure adapter using a neural network model",
+  "authors": "Amir KavehJafar Eskandari JamMahdi Jafari",
+  "date": "30 May 2024"
+},
+{
+  "heading": "Initial gap modeling for wing assembly analysis",
+  "authors": "Nadezhda ZaitsevaSergey LupuleacJulia Shinder",
+  "date": "15 May 2024"
+},
+{
+  "heading": "Trajectory prediction for fighter aircraft ground collision avoidance based on the model predictive control technique",
+  "authors": "Shiyi YuanQifu LiWei Gao",
+  "date": "15 May 2024"
+},
+{
+  "heading": "A survey on synthetic jets as active flow control",
+  "authors": "D. Sai Naga BharghavaTamal JanaMrinal Kaushik",
+  "date": "08 May 2024"
+},
+{
+  "heading": "Deconvolution of mode composition beamforming for rotating source localization",
+  "authors": "Ce ZhangWei Ma",
+  "date": "06 May 2024"
+},
+{
+  "heading": "Computational study on effect of free-stream turbulence on bio-inspired corrugated airfoil at different sections at low Reynolds number",
+  "authors": "N. S. DivyasharadaVikas KumarGanapati N. Joshi",
+  "date": "02 May 2024"
+},
+{
+  "heading": "Quantitative analysis of hazardous areas in a micro downburst 3D wind field",
+  "authors": "Wenrui JinTao ZhangFandong Meng",
+  "date": "29 April 2024"
+},
+{
+  "heading": "Computational study on aerodynamic characteristics of propeller with protuberances",
+  "authors": "Rinisha T. NikhadeGanapati N. Joshi",
+  "date": "29 April 2024"
+},
+{
+  "heading": "Anchored to features: an image-feature-aware planner for stable visual localization",
+  "authors": "Senmao LiChengxi ZhangPeng Dong",
+  "date": "29 April 2024"
+},
+{
+  "heading": "A theoretical model of the impedance at blade tip clearance in aeroengine compressor",
+  "authors": "Jiale LuXiaohua Liu",
+  "date": "29 April 2024"
+},
+{
+  "heading": "Aircraft bleed air system fault detection based on MSE of LSTM and informer",
+  "authors": "Dai YuntianWu ChengxiangXiao Gang",
+  "date": "26 April 2024"
+},
+{
+  "heading": "Optimal control model as an approach to the synthesis of a supersonic transport control system",
+  "authors": "Ilias Kh. IrgaleevAleksandr V. EfremovEugene V. Efremov",
+  "date": "21 April 2024"
+},
+{
+  "heading": "Comparative evaluation of mathematical models of polymer composite material with the implementation of a three-dimensional stress–strain state in the simulation of impact",
+  "authors": "Aleksandr BolshikhKirill ShelkovNikolay Turbin",
+  "date": "20 April 2024"
+},
+{
+  "heading": "Comparative evaluation of the efficiency of manufacturing composite caisson panels of a wing/stabilizer for a medium-haul aircraft using automated laying and autoclave-free technologies",
+  "authors": "Fedor NasonovPavel MilovanovRazmik Melkonyan",
+  "date": "18 April 2024"
+},
+{
+  "heading": "Damage prediction and failure mode analysis of composite aeroengine blade impacted by the breakstone",
+  "authors": "Xiaojing ZhangFangrui Yu",
+  "date": "16 April 2024"
+},
+{
+  "heading": "Applications of deep learning to selected aerospace systems",
+  "authors": "Hossain NomanGuorui Sun",
+  "date": "08 April 2024"
+},
+{
+  "heading": "Optimize design of composite laminate scarf patch repair by numerical analysis and experiments",
+  "authors": "Ziling LengKeyao SongXiang Zhou",
+  "date": "08 April 2024"
+},
+{
+  "heading": "Fault diagnosis based on feature enhancement multiscale network under nonstationary conditions",
+  "authors": "Yao LiuHaoyuan DongWei Ma",
+  "date": "08 April 2024"
+},
+{
+  "heading": "Vision-based heading estimation for navigation of a micro-aerial vehicle in GNSS-denied staircase environment using vanishing point",
+  "authors": "B. Anbarasu",
+  "date": "30 March 2024"
+},
+{
+  "heading": "Design of rotation inducing rocket fins and their analysis for aerodynamic stability",
+  "authors": "Chinmay KarlekarShivprakash B. Barve",
+  "date": "30 March 2024"
+},
+{
+  "heading": "Dynamic modeling of the electrical actuation system of the hypersonic aircraft considering the temperature effects",
+  "authors": "Binghang XiaoJianzhe HuangZhongliang Jing",
+  "date": "29 March 2024"
+},
+{
+  "heading": "Finite time sliding mode control for agile rigid satellite with CMG actuators using fast high-order sliding mode observer",
+  "authors": "Narges NazariHossein MoladavoudiJalil Beyramzad",
+  "date": "29 March 2024"
+},
+{
+  "heading": "Optimal power management and sizing of a fuel cell electric UAV",
+  "authors": "Yahia AchourSabah SaibTarak Ghennam",
+  "date": "28 March 2024"
+},
+{
+  "heading": "Low-level memory and timing analysis of flight code for unmanned aerial systems",
+  "authors": "Micheal SaleabFranz SaxFlorian Holzapfel",
+  "date": "Open access"
+},
+{
+  "heading": "Bayesian inference of airfoil icing condition from simulated ice shapes",
+  "authors": "Xinyu ZhongZifei YinHong Liu",
+  "date": "21 March 2024"
+},
+{
+  "heading": "Numerical study of the hybrid rocket engine",
+  "authors": "C. OmmounicaSachin SrivastavaSubham Haldar",
+  "date": "11 March 2024"
+},
+{
+  "heading": "Manipulation of optimal size-weight project parameters of composite structurally anisotropic aircraft panels with restrictions according to the refined buckling theory",
+  "authors": "V. V. KorolskiiN. V. TurbinL. M. Gavva",
+  "date": "08 March 2024"
+},
+{
+  "heading": "Design of a novel artificial intelligence technique for Cube-Sat power budget calculations",
+  "authors": "Ahmed Mokhtar Mohamed RefaieMohamed Sameh ElkerdanyMohamed E. Hanafy",
+  "date": "04 March 2024"
+},
+{
+  "heading": "Nonlinear dynamic modeling and optimal control of \\(J_2\\) perturbed spacecraft formation flying with periodic coefficients",
+  "authors": "Ayansola D. OgundeleOlufemi A. AgboolaOlasunkanmi F. Oseni",
+  "date": "27 February 2024"
+},
+{
+  "heading": "Multi-objective optimization design of labyrinth seal of shrouded stator cavity in a low-speed research compressor",
+  "authors": "Biaojie ZhengRunzhu ShaoXiaoqing Qiang",
+  "date": "23 February 2024"
+},
+{
+  "heading": "Distributed information fusion based trajectory tracking for USV and UAV clusters via multi-agent deep learning approach",
+  "authors": "Hongzhi WuMiao wangGuoqing wang",
+  "date": "23 February 2024"
+},
+{
+  "heading": "An introduction to electric thruster modeling for stratospheric airship",
+  "authors": "Pingfang ZhouQiming LinYuhao Jing",
+  "date": "16 February 2024"
+},
+{
+  "heading": "Review on guidance and control of aerospace vehicles: recent progress and prospect",
+  "authors": "Zian WangPengcheng CaiPeng Dong",
+  "date": "15 February 2024"
+},
+{
+  "heading": "Experimental test analysis of a 300 N hybrid rocket engine",
+  "authors": "Sachin SrivastavaAmit Kumar ThakurRajesh Singh",
+  "date": "19 January 2024"
+},
+{
+  "heading": "Hysteresis of oscillatory airflow in a supersonic intake model",
+  "authors": "Alexander Kuzmin",
+  "date": "13 January 2024"
+},
+{
+  "heading": "Finite state machine and ultrasonic ranging-based approach for automatic grasping by aerial manipulator",
+  "authors": "Dingcheng PuXiangming DunZhongliang Jing",
+  "date": "13 January 2024"
+},
+{
+  "heading": "Finite-time error convergent trajectory generation with field-of-view and angle constraints",
+  "authors": "Ye ChenShufan WuQuan Li",
+  "date": "12 January 2024"
+},
+{
+  "heading": "Determining the applicability limits of different accuracy models when analyzing the loads on the landing gear during landing",
+  "authors": "Roman TrifonovKirill ShelkovAndrey Boykov",
+  "date": "05 January 2024"
+},
+{
+  "heading": "Modeling of the stress–strain responses and deformation patterns of superelastic NiTi tubes subjected to biaxial loadings",
+  "authors": "Mingxun WuDongjie Jiang",
+  "date": "04 January 2024"
+},
+{
+  "heading": "Hybrid optimization of curvature continuous stacking line on the highly loaded diffuser cascade",
+  "authors": "Ke YaoXingyi ZhangXiaoqing Qiang",
+  "date": "04 January 2024"
+},
+{
+  "heading": "Rocket-based versus solar wing-tail Martian UAVs: design, analysis, and trade studies",
+  "authors": "Elena KarpovichTimur KombaevDmitriy Strelets",
+  "date": "04 January 2024"
+},
+{
+  "heading": "Theoretical analysis of decompression tolerance based on a simulated depressurisation model of an aircraft’s pressurised cabin",
+  "authors": "Timofey MatyushevMichael DvornikovAndrey Malyshev",
+  "date": "20 December 2023"
+},
+{
+  "heading": "Transition control of the blasius boundary layer using linear robust control theory",
+  "authors": "Christopher J. Damaren",
+  "date": "Open access"
+},
+{
+  "heading": "Ku-band tracking, command and ranging antenna design for small satellites communications applications",
+  "authors": "Zakarya KourdiMohammed Amin RabahYoucef Benabdellah",
+  "date": "12 December 2023"
+},
+{
+  "heading": "Robust control design for zero-sum differential games problem based on off-policy reinforcement learning technique",
+  "authors": "Hongji ZhuangHongxu ZhuQiang Shen",
+  "date": "12 December 2023"
+},
+{
+  "heading": "Developing a novel battery management algorithm with energy budget calculation for low Earth orbit (LEO) spacecraft",
+  "authors": "Mohamed Ahmed MokhtarH. Amer Fawzy ElTohamyE. Hanafy Mohamed",
+  "date": "08 December 2023"
+},
+{
+  "heading": "Study of wedge-shaped Jet tabs for effective Thrust vector control in Supersonic vehicles",
+  "authors": "V. M. JyothyG. Jims John WessleyA. Brusly Solomon",
+  "date": "08 December 2023"
+},
+{
+  "heading": "SESPnet: a lightweight network with attention mechanism for spacecraft pose estimation",
+  "authors": "Chao ChenZhongliang JingShuqing Cao",
+  "date": "08 December 2023"
+},
+{
+  "heading": "Improvement in aerodynamic efficiency of trainer aircraft wing using co flow jet method",
+  "authors": "J. AnishG. M. Joselin HerbertK. Balaji",
+  "date": "01 December 2023"
+},
+{
+  "heading": "Utilizing deep reinforcement learning for tactile-based autonomous capture of non-cooperative objects in space",
+  "authors": "Bahador BeigomiZheng H. Zhu",
+  "date": "24 November 2023"
+},
+{
+  "heading": "ML-based LOS/NLOS/multipath signal classifiers for GNSS in simulated multipath environment",
+  "authors": "S. R. S. Jyothsna KoilothDattatreya Sarma AchantaPadma Raju Koppireddi",
+  "date": "18 November 2023"
+},
+{
+  "heading": "Numerical studies on uncontrolled and controlled shock wave/boundary layer interactions in hypersonic intake",
+  "authors": "Dorbala Sai Naga BharghavaAmit Krishnat MaliMrinal Kaushik",
+  "date": "31 October 2023"
+},
+{
+  "heading": "Doppler collision analysis and mitigation using hybrid approach for NavIC system",
+  "authors": "P. SathishD. Krishna ReddyA. D. Sarma",
+  "date": "20 October 2023"
+},
+{
+  "heading": "Group motion control for UAV swarm confrontation using distributed dynamic target assignment",
+  "authors": "Ziqi GuoYuankai LiLianxing Wang",
+  "date": "15 October 2023"
+},
+{
+  "heading": "Unerroric of assessment of professional competence for aviation personnel",
+  "authors": "Andrey E. SorokinAdeliya Yu. Burova",
+  "date": "13 October 2023"
+},
+{
+  "heading": "Transient state flow and heat transfer performance over the flat tip of HP turbine",
+  "authors": "Jiuchun LiJinfang TengShaopeng Lu",
+  "date": "12 September 2023"
+},
+{
+  "heading": "Integrity performance characterization of BeiDou B1C and B2a signal-in-space error",
+  "authors": "Liying HuoJiawen ShenXingqun Zhan",
+  "date": "11 September 2023"
+},
+{
+  "heading": "Methodology for determining the takeoff mass of all-electric aircraft at the early stages of design",
+  "authors": "Denis Dukhnovskiy",
+  "date": "08 September 2023"
+},
+{
+  "heading": "Conceptual design for returning KITSAT-1",
+  "authors": "Taejin ChungYehyun KimSejin Kwon",
+  "date": "04 September 2023"
+},
+{
+  "heading": "Numerical research on near stall characteristics of a transonic axial compressor based on wavelet analysis",
+  "authors": "Kailong XiaMingmin ZhuJinfang Teng",
+  "date": "28 August 2023"
+},
+{
+  "heading": "Approach to determine the circulation and vorticity around supersonic airfoil with spoiler",
+  "authors": "Abrar HoqueZahangir AlamAshabul Hoque",
+  "date": "21 August 2023"
+},
+{
+  "heading": "Non-unique regimes of oscillatory transonic flow in bent channels",
+  "authors": "Alexander Kuzmin",
+  "date": "07 August 2023"
+},
+{
+  "heading": "Model predictive control switching strategy for safe small satellite cluster formation flight",
+  "authors": "Tyson SmithJohn AkagiGreg Droge",
+  "date": "26 July 2023"
+},
+{
+  "heading": "Numerical modeling of hybrid rocket engine",
+  "authors": "Sachin SrivastavaAmit Kumar ThakurAnita Gehlot",
+  "date": "25 July 2023"
+},
+{
+  "heading": "Estimation of satellite attitude dynamics and external torques via mixed Kalman/H-infinity filter under inertia uncertainties",
+  "authors": "Halima BoussadiaMohammed Arezki Si MohammedAbdellatif Bellar",
+  "date": "20 July 2023"
+},
+{
+  "heading": "Adaptive control for excitation and parameter identification of a three-axis spacecraft simulator with full-state constraints",
+  "authors": "Zhongyuan ZhuDexin ZhangXiaowei Shao",
+  "date": "20 July 2023"
+},
+{
+  "heading": "Methods for determining the weight of a supersonic passenger administrative aircraft fuselage structure based on regression analysis",
+  "authors": "Gulnar ResulkulyevaSergey Serebryansky",
+  "date": "17 July 2023"
+},
+{
+  "heading": "Intention recognition of UAV swarm with data-driven methods",
+  "authors": "Zhichao WangJiayun ChenQiang Shen",
+  "date": "05 July 2023"
+},
+{
+  "heading": "Airfoil smoothing using unconditional optimization",
+  "authors": "Alexander YerokhinYuri Deniskin",
+  "date": "05 July 2023"
+},
+{
+  "heading": "Effect of preloaded state slat structure on the stress–strain state of simulation bird strike",
+  "authors": "Rod OlgaMolkov OlegStorchak Anna",
+  "date": "30 June 2023"
+},
+{
+  "heading": "Design of the strength frame of the aerodynamic rudder using the topological optimization method",
+  "authors": "Yanina A. KupriyanovaSergey G. Parafes’",
+  "date": "25 June 2023"
+},
+{
+  "heading": "A novel on–off linear quadratic regulator control approach for satellite rendezvous",
+  "authors": "Hossein RouzegarMohammad Ghanbarisabagh",
+  "date": "23 June 2023"
+},
+{
+  "heading": "Evaluations on VCCT and CZM methods of delamination propagation simulation for composite specimens",
+  "authors": "Rui LiuZhefeng YuFedor Nasonov",
+  "date": "20 June 2023"
+},
+{
+  "heading": "A new coupling model of dynamics and thermodynamics to predict trajectory of stratospheric airship during ascent",
+  "authors": "Xianghao LiuXiaoliang Wang",
+  "date": "14 June 2023"
+},
+{
+  "heading": "Probabilistic approach to safety factor evaluation for aircraft wing design",
+  "authors": "Maksim Yu. KalyaginVyacheslav S. SafronovAndrey A. Zamkovoi",
+  "date": "08 June 2023"
+},
+{
+  "heading": "Influence of cohesive zone model parameters of polymer lugs with metal bushing on their geometrical and mass characteristics",
+  "authors": "Evgenii KurkinEvgenii KishovVladislava Chertykovtseva",
+  "date": "07 June 2023"
+},
+{
+  "heading": "An investigation of aerodynamic performance of aeroengine fan and booster under non-uniform inlet conditions",
+  "authors": "Zetian QiuZhongyu ZhuXiaohua Liu",
+  "date": "26 May 2023"
+},
+{
+  "heading": "Robust estimation of state vector coordinates in the controlled airplane motion problem",
+  "authors": "A. V. PanteleevE. A. Khvoshnyanskaya",
+  "date": "25 May 2023"
+},
+{
+  "heading": "Numerical simulation of mini-air-jet vortex generators on a supercritical wing in transonic flow and the effect of temperature on its aerodynamic performance",
+  "authors": "M. A. BrutyanTenzin Tadin",
+  "date": "25 May 2023"
+},
+{
+  "heading": "Forecasting of maintenance indicators of complex technical systems during storage",
+  "authors": "Evgeniy GusevAleksey Pronkin",
+  "date": "25 May 2023"
+},
+{
+  "heading": "Stability of a dielectric rectangular plate in a longitudinal magnetic field in the presence of a supersonic flow field",
+  "authors": "Andrei PanteleevMarine MikilyanIren Vardanyan",
+  "date": "02 May 2023"
+},
+{
+  "heading": "Ionospheric irregularities measurement using Indian SBAS-GAGAN",
+  "authors": "Kaitha PraveenaPerumalla Naveen KumarD. Krishna Reddy",
+  "date": "02 May 2023"
+},
+{
+  "heading": "Prediction method for shear stability of composite hat-stringer stiffened panel",
+  "authors": "Shui HanYu YinXu YunYao",
+  "date": "28 April 2023"
+},
+{
+  "heading": "Three-axis high-accuracy spacecraft attitude estimation via sequential extended Kalman filtering of single-axis magnetometer measurements",
+  "authors": "Tamer Mekky Ahmed Habib",
+  "date": "Open access"
+},
+{
+  "heading": "Robust attitude consensus control of multi-spacecraft with stochastic link failure",
+  "authors": "Yumeng ZhuZeyu KangChao Zhong",
+  "date": "28 April 2023"
+},
+{
+  "heading": "Experimental and numerical study on the bending performance of GFRP/Kraft honeycomb panel after natural aging",
+  "authors": "Z. KongN. S. KalutskiyZ. Yang",
+  "date": "26 April 2023"
+},
+{
+  "heading": "Backstepping sliding mode-based anti-skid braking control for a civil aircraft",
+  "authors": "Zhenjie MaShiqian LiuKuan Wang",
+  "date": "21 April 2023"
+},
+{
+  "heading": "State estimation of radar tracking system using a robust adaptive unscented Kalman filter",
+  "authors": "Manav KumarSharifuddin Mondal",
+  "date": "15 April 2023"
+},
+{
+  "heading": "Investigation of the local area damage influence on the load-bearing capacity of the reinforced composite panels",
+  "authors": "Aleksandr BolshikhDmitrii BorovkovBogdan Ustinov",
+  "date": "08 April 2023"
+},
+{
+  "heading": "Expediency of using moving-base flight simulators in research on pilot aids evaluation",
+  "authors": "Tatyana VoronkaMikhail Tiaglik",
+  "date": "08 April 2023"
+},
+{
+  "heading": "Aerodynamic performance improvement of a blended wing-body re-entry vehicle using ANSYS CFX",
+  "authors": "Shakil HossanG. Srinivas",
+  "date": "Open access"
+},
+{
+  "heading": "Reliability evaluation method of complex technical systems based on test results of disassembled components",
+  "authors": "Alexey AmosovOleg Rozhdestvensky",
+  "date": "01 April 2023"
+},
+{
+  "heading": "Determination of minimum thickness of composite panels taking into account limits on stability and fatigue under postbuckling behavior",
+  "authors": "Oleg MitrofanovMaksim Shkurin",
+  "date": "28 March 2023"
+},
+{
+  "heading": "Improved multi-target tracking crossing paths in MIMO FMCW 8 × 16 radar system using a new hybrid AMC-JPDAF algorithm",
+  "authors": "Khaireddine ZaraiIbrahim Ben AbdallahAdnane Cherif",
+  "date": "27 March 2023"
+},
+{
+  "heading": "Fatigue strength estimates for composite wing panels of prospective supersonic transport aircraft",
+  "authors": "V. E. StrizhiusN. V. Turbin",
+  "date": "27 March 2023"
+},
+{
+  "heading": "Trajectory planning with minimum energy consumption for multi-target regions autonomous cruise of stratospheric airship in wind field",
+  "authors": "Linzhi XiaoPingfang ZhouDeyu Yu",
+  "date": "23 March 2023"
+},
+{
+  "heading": "A discrete design method of repeat ground track orbit for Earth observation satellites",
+  "authors": "Xiaofang WeiBingliang ZhangXiaowei Shao",
+  "date": "21 March 2023"
+},
+{
+  "heading": "Thermal–mechanical properties of aluminum cylindrical sandwich structures with foldcores",
+  "authors": "Kailun HuangHan LiuXiang Zhou",
+  "date": "15 March 2023"
+},
+{
+  "heading": "A spatiotemporal transferable image fusion technique for GeoEye-1 satellite imagery",
+  "authors": "Mohamed Elshora",
+  "date": "Open access"
+},
+{
+  "heading": "Accident propensity assessment of Boeing 737 Aircraft variants using the Gompertz distribution model",
+  "authors": "Ayodele Adekunle Faiyetole",
+  "date": "10 March 2023"
+},
+{
+  "heading": "Prediction noise of propeller on wing for distributed electric propulsion configuration",
+  "authors": "Bolun ChenAlexey YakovlevPetr Moshkov",
+  "date": "07 March 2023"
+},
+{
+  "heading": "Research on reliability of aero-engine nacelle based on survival analysis",
+  "authors": "Zhili ChenXiuhua ChenYong Liang",
+  "date": "03 March 2023"
+},
+{
+  "heading": "Numerical study of fatigue damage accumulation in composite wing panels of prospective supersonic transport aircraft",
+  "authors": "N. V. TurbinK. A. Shelkov",
+  "date": "01 March 2023"
+},
+{
+  "heading": "A comparison between filtering approach and spline approximation method in smoothing flight data",
+  "authors": "O. N. KorsunSekou GoroM. H. Om",
+  "date": "26 February 2023"
+},
+{
+  "heading": "Novel empirical models for estimating aerodynamic coefficients of small UAV propellers",
+  "authors": "Siddhardha KedarisettyJoel George Manathara",
+  "date": "24 February 2023"
+},
+{
+  "heading": "Enhanced composite nonlinear extended state observer based on trajectory linearization control in presence of external and internal disturbance",
+  "authors": "Javid HosseinpourSeyed Hossein SadatiYosef Abbasi",
+  "date": "22 February 2023"
+},
+{
+  "heading": "Derivation and exploration of permeability function for contact of wedge-shaped edge of metal seal with flange",
+  "authors": "Andrei BoikovOlga Rod",
+  "date": "09 February 2023"
+},
+{
+  "heading": "Design of load-bearing anisotropic wing box panels ensuring static strength in the post-buckling state",
+  "authors": "Oleg MitrofanovMaksim Shkurin",
+  "date": "06 February 2023"
+},
+{
+  "heading": "Fatigue life of engineering structures with regard to aerospace welding joint",
+  "authors": "Elena VlasovaAleksandr SidorenkoAyubjon Vokhidov",
+  "date": "02 February 2023"
+},
+{
+  "heading": "The coupled impact-freezing mechanism of supercooled droplet on superhydrophobic surface",
+  "authors": "Haocheng WuWeiliang KongHong Liu",
+  "date": "30 January 2023"
+},
+{
+  "heading": "Filter and sensor delay synchronization in incremental flight control laws",
+  "authors": "Rasmus SteffensenAgnes SteinertFlorian Holzapfel",
+  "date": "Open access"
+},
+{
+  "heading": "An optimal deployment method of heterogeneous sensors for multi-agent collaborative detection tasks",
+  "authors": "Yangguang HeGang XiaoLiu Zeng",
+  "date": "19 January 2023"
+},
+{
+  "heading": "Numerical research on ice shape distribution characteristics of aircraft under uncertain icing conditions",
+  "authors": "Yao LiWeiliang KongHong Liu",
+  "date": "17 January 2023"
+},
+{
+  "heading": "Investigation into the failure of aircraft stringer–skin composite structure under bending load",
+  "authors": "H. Y. ZhaoY. L. HuY. Yu",
+  "date": "12 January 2023"
+},
+{
+  "heading": "Low-power test pattern generator using modified LFSR",
+  "authors": "V. GovindarajS. DhanasekarVinay Kumar Nassa",
+  "date": "09 January 2023"
+},
+{
+  "heading": "Robot grasp detection based on key point estimation",
+  "authors": "Yulong Li",
+  "date": "07 January 2023"
+},
+{
+  "heading": "Method for predictive analysis of failure and pre-failure conditions of aircraft units using data obtained during their operation",
+  "authors": "D. I. SmaginS. V. GrachevA. A. Vereikin",
+  "date": "23 December 2022"
+},
+{
+  "heading": "Hybrid feedback pseudospectral method for geostationary debris removal using solar radiation pressure and impulsive thrusts",
+  "authors": "Hao MeiChristopher J. DamarenXingqun Zhan",
+  "date": "21 December 2022"
+},
+{
+  "heading": "Improved robust Huber–Kalman filtering",
+  "authors": "Wei LiXingqun Zhan",
+  "date": "19 December 2022"
+},
+{
+  "heading": "Airfoil optimization methodology and CFD validation for Mars atmospheric conditions",
+  "authors": "Dmitry StreletsEgor ParkhaevDebopam Das",
+  "date": "14 December 2022"
+},
+{
+  "heading": "The generalization of classical porkchop plot into 3D porkchop plot",
+  "authors": "Vijil Kumar",
+  "date": "10 December 2022"
+},
+{
+  "heading": "Studies on the enhancement of aerodynamic performance in aerofoils using co-flow jet: a comprehensive review",
+  "authors": "K. BalajiG. Jims John Wessley",
+  "date": "09 December 2022"
+},
+{
+  "heading": "A safety analysis method based on hazard pattern mining for single pilot operations air-ground task collaboration in commercial aircraft",
+  "authors": "Kai HuangMiao WangGuoqing Wang",
+  "date": "07 December 2022"
+},
+{
+  "heading": "Reliable and improved selection of fins/trim tabs layouts on rocket to control the direct flight",
+  "authors": "Mohammad NadjafiMohammad Amin Malekian",
+  "date": "05 December 2022"
+},
+{
+  "heading": "Systolic optimized adaptive filter architecture designs for ECG noise cancellation by Vertex-5",
+  "authors": "S. JayapooraniDigvijay PandeyBinay Kumar Pandey",
+  "date": "30 November 2022"
+},
+{
+  "heading": "Determination and analysis of roll and yaw rotary derivatives of wig vehicle using numerical simulation",
+  "authors": "Andrey FevralskikhMiroslav Makhnev",
+  "date": "28 November 2022"
+},
+{
+  "heading": "Experimental determination of wall pressure fluctuations on a Superjet 100 fuselage at level flight conditions",
+  "authors": "Petr Moshkov",
+  "date": "19 November 2022"
+},
+{
+  "heading": "Computational investigation of the effect of variable cowl length on the flowfield of conical aerospike nozzles",
+  "authors": "Md Saquib RezaBasant K. AgrawalDhruv Panchal",
+  "date": "18 November 2022"
+},
+{
+  "heading": "Hybrid convolutional neural network (CNN) for Kennedy Space Center hyperspectral image",
+  "authors": "R. AnandBilal KhanPankaj Dadheech",
+  "date": "18 November 2022"
+},
+{
+  "heading": "Comparison of propellant characteristics using paraffin and blends of aluminum and magnesium with oxidizers in hybrid rocket engine",
+  "authors": "Sachin SrivastavaAmit Kumar Thakur",
+  "date": "11 November 2022"
+},
+{
+  "heading": "Analysis of leakage flow and loss in a linear compressor cascade with moving endwall",
+  "authors": "Hefang DengKailong XiaShaopeng Lu",
+  "date": "10 November 2022"
+},
+{
+  "heading": "Data-driven IMA degradation modeling and health assessment",
+  "authors": "Jingwen FanJie ChenZijun Liu",
+  "date": "03 November 2022"
+},
+{
+  "heading": "Sample efficient deep reinforcement learning for Diwata microsatellite reaction wheel attitude control",
+  "authors": "James-Andrew R. SarmientoVanessa H. TanProspero C. Naval Jr.",
+  "date": "29 October 2022"
+},
+{
+  "heading": "Assessment of the use of electric power plants on the propeller-driven aircraft noise",
+  "authors": "Petr MoshkovEkaterina Toropylina",
+  "date": "14 October 2022"
+},
+{
+  "heading": "Design of 3-D trajectory sequences for multiple asteroid flyby missions",
+  "authors": "Giuseppe CataldiSalvo Marcuccio",
+  "date": "Open access"
+},
+{
+  "heading": "A triband microstrip patch antenna in Ku and J band for satellite and aerospace applications",
+  "authors": "Mandeep SinghHarjinder Singh",
+  "date": "07 October 2022"
+},
+{
+  "heading": "Effects of radial misalignment on virtual rotating array beamforming for rotating sound source localization",
+  "authors": "Cheng Wei LeeCe ZhangWei Ma",
+  "date": "21 September 2022"
+},
+{
+  "heading": "SAFuseNet: integration of fusion and detection for infrared and visible images",
+  "authors": "Xincheng ShuaiZhongliang JingHongya Tuo",
+  "date": "20 September 2022"
+},
+{
+  "heading": "Research on dynamic stall active control of two-dimensional airfoil with combination of droop leading edge and trailing edge flap",
+  "authors": "Xiangyang DaiZhan QiuFuxin Wang",
+  "date": "14 September 2022"
+},
+{
+  "heading": "Implementation of receiver autonomous integrity algorithm for fault detection of IRNSS",
+  "authors": "D. SonyD. Krishna ReddyP. Naveen Kumar",
+  "date": "13 September 2022"
+},
+{
+  "heading": "Application of switching median filter with L2 norm-based auto-tuning function for removing random valued impulse noise",
+  "authors": "P. Malin BrunthaS. DhanasekarBinay Kumar Pandey",
+  "date": "05 September 2022"
+},
+{
+  "heading": "Deep reinforcement learning-based upset recovery control for generic transport aircraft",
+  "authors": "Xibo LangFei CenBei Lu",
+  "date": "25 August 2022"
+},
+{
+  "heading": "Advantage of IRNSS S-band signal for GBAS applications in adverse ionospheric storm conditions",
+  "authors": "Supraja R. AmmanaM. R. SujimolA. D. Sarma",
+  "date": "20 August 2022"
+},
+{
+  "heading": "Digital platform for aircraft weight design",
+  "authors": "Sergei I. SkobelevDmitry Yu. StreletsIgor L. Grinev",
+  "date": "08 August 2022"
+},
+{
+  "heading": "Study of an aviation opposed piston engine noise",
+  "authors": "Petr Moshkov",
+  "date": "20 July 2022"
+},
+{
+  "heading": "Nonlinear high-fidelity modeling of spacecraft relative motion via orbit element differences",
+  "authors": "Ayansola D. OgundeleOlufemi A. AgboolaOlasunkanmi F. Oseni",
+  "date": "12 July 2022"
+},
+{
+  "heading": "Transition trajectory generation with time-scaled trigonometric series control parameterization",
+  "authors": "Haichao HongPatrick PiprekFlorian Holzapfel",
+  "date": "Open access"
+},
+{
+  "heading": "Artificial intelligence for spacecraft guidance, navigation, and control: a state-of-the-art",
+  "authors": "Tamer Mekky Ahmed Habib",
+  "date": "27 June 2022"
+},
+{
+  "heading": "Fault diagnosis of aeroengine fan based on generative adversarial network and acoustic features",
+  "authors": "Haoyuan DongLiu XunWei Ma",
+  "date": "22 June 2022"
+},
+{
+  "heading": "An approach for object tracking, categorization, and autopilot guidance for passive homing missiles",
+  "authors": "Digvijay PandeySubodh WairyaBinay Kumar Pandey",
+  "date": "15 June 2022"
+},
+{
+  "heading": "Sun outage prediction modeling for Earth orbiting satellites",
+  "authors": "Vineet K. SrivastavaPadmdeo Mishra",
+  "date": "13 June 2022"
+},
+{
+  "heading": "Development of reactive flow solver for hypersonic flow applications using OpenFOAM",
+  "authors": "Vayala SivaA. A. KaneRavi Peetala",
+  "date": "13 June 2022"
+},
+{
+  "heading": "Modal identification of double-layer hollow stiffened plate structure using variational mode decomposition based on high-speed digital image correlation",
+  "authors": "Fuhao PengKaiping YuRui Zhao",
+  "date": "07 June 2022"
+},
+{
+  "heading": "A method for conceptual design of a light boxplane",
+  "authors": "Elena KarpovichDjahid GueraicheDanil Korotkov",
+  "date": "02 June 2022"
+},
+{
+  "heading": "Gain-scheduled anti-windup PID control for LPV systems under actuator saturation and its application to aircraft",
+  "authors": "Bixuan HuangMingyuan ZhaiQifu Li",
+  "date": "12 May 2022"
+},
+{
+  "heading": "Aircraft wing vibration parameters measurement system using MEMS IMUs and closed-loop optimal correction",
+  "authors": "M. S. MaamoA. A. AfoninA. S. Sulakov",
+  "date": "06 May 2022"
+},
+{
+  "heading": "Modeling and simulation of a direct-ascent anti-satellite missile using Kerbal Space Program (KSP)",
+  "authors": "Apurva KawthalkarManan ShahIshit Prachchhak",
+  "date": "06 May 2022"
+},
+{
+  "heading": "Adaptive risk-free coordinated trajectory planning for UAV cluster in dynamic obstacle environment",
+  "authors": "Yang GaoYuankai LiXiaosu Tan",
+  "date": "06 May 2022"
+},
+{
+  "heading": "Development of indoor folding method for tethered aerostat envelope to stow for long duration safely",
+  "authors": "Avesh CheulkarAjay BhongadeRajkumar S. Pant",
+  "date": "28 April 2022"
+},
+{
+  "heading": "Intelligent sensing and control for aerospace unmanned systems",
+  "authors": "Yuankai LiLiang DingHan Pan",
+  "date": "13 April 2022"
+},
+{
+  "heading": "Joint image pansharpening and registration via structure tensor total variation regularization",
+  "authors": "Yu YuanHan PanZhong-liang Jing",
+  "date": "05 April 2022"
+},
+{
+  "heading": "An energy absorber based on foam-filled composite tubes and simulation of its application to crashworthy seats",
+  "authors": "Qiwu XiePu YuZhefeng Yu",
+  "date": "01 April 2022"
+},
+{
+  "heading": "Research on turbine blade squealer tip film holes arrangement and moving shroud",
+  "authors": "Hao LuoXiaoqing QiangBo Zhang",
+  "date": "28 March 2022"
+},
+{
+  "heading": "Influence analysis of Waverider wake on the deflection rate of light",
+  "authors": "Chenlin GuoFang Chen",
+  "date": "28 March 2022"
+},
+{
+  "heading": "Estimation of the interrelation between the pilot state and the quality index of piloting",
+  "authors": "O. N. KorsunV. N. YurkoA. B. Uali",
+  "date": "22 March 2022"
+},
+{
+  "heading": "Reducing of hydraulic losses at the hydraulic drive under helping loads",
+  "authors": "Maxim ChulkovAleksey Volkov",
+  "date": "22 March 2022"
+},
+{
+  "heading": "Recent developments of blended wing body aircraft: experimental, numerical and theoretical approaches",
+  "authors": "Sanyam HandaG. Srinivas",
+  "date": "07 March 2022"
+},
+{
+  "heading": "A brief review on in-orbit refueling projects and critical techniques",
+  "authors": "Daria MalyhSergey VaulinMikhail Shalashov",
+  "date": "04 March 2022"
+},
+{
+  "heading": "Analysis of error induced by the Doppler effect in the ROSI beamforming for rotating sound source identification",
+  "authors": "Yuxi WangCe ZhangWei Ma",
+  "date": "17 February 2022"
+},
+{
+  "heading": "Estimation of yaw angle from flight data using extended Kalman filter",
+  "authors": "L. K. GiteR. S. Deodhar",
+  "date": "15 February 2022"
+},
+{
+  "heading": "Design of thin orthotropic panels according to the postbuckling state under combined loading taking into account uniform heating",
+  "authors": "Oleg Vladimirovich MitrofanovMazen Osman",
+  "date": "01 February 2022"
+},
+{
+  "heading": "Protective elements for lattice composite fuselage structures against low-velocity impacts",
+  "authors": "Ivan KondakovAndrey ChernovMikhail Levchenkov",
+  "date": "25 January 2022"
+},
+{
+  "heading": "A combined configuration (αβ filter- TRIAD algorithm) for spacecraft attitude estimation based on in-Orbit Flight Data",
+  "authors": "Halima BoussadiaMohammed Arezki Si MohammedAbdellatif Bellar",
+  "date": "22 January 2022"
+},
+{
+  "heading": "Analysis of ridge ice induced unsteadiness flow under post-stall condition",
+  "authors": "Xue TanChen ZhangFuxin Wang",
+  "date": "21 January 2022"
+},
+{
+  "heading": "Frequent high-utility sequential pattern mining algorithm for integrated architecture design of multi-platform mission system",
+  "authors": "Xiang NiMiao WangGuoqing Wang",
+  "date": "20 January 2022"
+},
+{
+  "heading": "Optimal obstacle avoidance consensus formation control method for fixed-wing UAV with variable topology",
+  "authors": "Deyu YuPingfang ZhouYuhao Jing",
+  "date": "20 January 2022"
+},
+{
+  "heading": "Design of a variable-sweep wing structure with flexible shear skin",
+  "authors": "Tianrui MaYida FanXiang Zhou",
+  "date": "17 January 2022"
+},
+{
+  "heading": "Influence of control system algorithms on the maneuvering characteristics of the aircraft",
+  "authors": "Mikhail KiselevSergey LevitskyMaxim Shkurin",
+  "date": "16 January 2022"
+},
+{
+  "heading": "Orbit–attitude dynamics and control of spacecraft hovering over a captured asteroid in the earth–moon system",
+  "authors": "Jiangliang FuLi ChenXiaowei Shao",
+  "date": "16 January 2022"
+},
+{
+  "heading": "Gyro sensor calibration of ISRO’s remote sensing satellites",
+  "authors": "Pooja PrasadBijoy Kumar DaiB. N. Ramakrishna",
+  "date": "14 January 2022"
+},
+{
+  "heading": "Nonlinear optimal controller design for nonlinear spacecraft formation flying with periodic coefficients via SDRE technique",
+  "authors": "Ayansola D. Ogundele",
+  "date": "10 January 2022"
+},
+{
+  "heading": "Vortex ring state as a cause of a single-rotor helicopter unanticipated yaw",
+  "authors": "Vadim V. EfimovKonstantin O. Chernigin",
+  "date": "10 January 2022"
+},
+{
+  "heading": "Study of the influence of in-flight conditions on the light propeller-driven aircraft noise",
+  "authors": "Petr Moshkov",
+  "date": "03 January 2022"
+},
+{
+  "heading": "An efficient spatial high-utility occupancy frequent item mining algorithm for mission system integration architecture design using the MBSE method",
+  "authors": "Xiaoxu DongMiao WangGuoqing Wang",
+  "date": "03 January 2022"
+},
+{
+  "heading": "Computational analyses of tail fin configurations for a sounding rocket",
+  "authors": "S. Sai SankalpVansh SharmaG. Srinivas",
+  "date": "Open access"
+},
+{
+  "heading": "Three-dimensional path-following adaptive control of stratospheric airship based on improved chemical reaction optimization algorithm",
+  "authors": "Keyu ChenXiaoliang WangDengping Duan",
+  "date": "23 November 2021"
+},
+{
+  "heading": "Spatial interpolation methods for virtual rotating array beamforming with arbitrary microphone configurations",
+  "authors": "Jiacheng YangCe ZhangWei Ma",
+  "date": "16 November 2021"
+},
+{
+  "heading": "Application of the dynamic programming method to ensure of dual-channel attitude control of an asymmetric spacecraft in a rarefied atmosphere of Mars",
+  "authors": "Ibrahim BakryVladislav Vasilyevich Lyubimov",
+  "date": "15 November 2021"
+},
+{
+  "heading": "In-orbit target tracking by flyby and formation-flying spacecraft",
+  "authors": "Houman HakimaMichael C. F. Bazzocchi",
+  "date": "08 November 2021"
+},
+{
+  "heading": "Enhancements for technique of stable low cycle fatigue crack propagation simulation for gas turbine engine",
+  "authors": "O. V. VoronkovK. Y. MokhovA. A. Museev",
+  "date": "03 November 2021"
+},
+{
+  "heading": "Structural analysis of three-dimensional wings using finite element method",
+  "authors": "Abdul AabidMuhammad Amir Mirza Bin Mohd ZakuanYasser E. Ibrahim",
+  "date": "27 October 2021"
+},
+{
+  "heading": "Extended GMPHD with amplitude information for multi-sensor multi-target tracking",
+  "authors": "Weizhen MaZhongliang JingPeng Dong",
+  "date": "27 October 2021"
+},
+{
+  "heading": "Design of an unmanned aircraft system for high-altitude 1 kW fuel cell power system",
+  "authors": "William A. ReidIbrahim M. Albayati",
+  "date": "Open access"
+},
+{
+  "heading": "Concept of application of water electrolysis propulsion system as a component of a universal space platform for asteroid exploration mission",
+  "authors": "Mikhail ShalashovVictor FedorovDaria Malyh",
+  "date": "13 October 2021"
+},
+{
+  "heading": "Correction to: Spatio-temporal graph convolutional neural network for remaining useful life estimation of aircraft engines",
+  "authors": "Mengni WangYuanxiang LiLei Jia",
+  "date": "Open access"
+},
+{
+  "heading": "The research on intelligent cooperative combat of UAV cluster with multi-agent reinforcement learning",
+  "authors": "Dan XuGang Chen",
+  "date": "30 September 2021"
+},
+{
+  "heading": "Nonlinear dynamic modeling of spacecraft relative motion in elliptical orbit via power series approach for rendezvous and proximity operations",
+  "authors": "Ayansola D. OgundeleOlufemi A. Agboola",
+  "date": "30 September 2021"
+},
+{
+  "heading": "LMI-based linear parameter varying PID control design and its application to an aircraft control system",
+  "authors": "Bixuan HuangBei LuQifu Li",
+  "date": "21 September 2021"
+},
+{
+  "heading": "Future communication satellites: low cost reduction of technology obsolescence",
+  "authors": "Ayodele PeriolaLouis Wei-Yu Feng",
+  "date": "25 August 2021"
+},
+{
+  "heading": "Correction to: Analysis of BDS GEO satellite multipath effect for GNSS integrity monitoring in civil aviation",
+  "authors": "Jin ChangXingqun ZhanKui Lin",
+  "date": "17 August 2021"
+},
+{
+  "heading": "GNSS vulnerability reliable assessment and its substitution with visual–inertial navigation",
+  "authors": "Yuankang ChenXingqun Zhan",
+  "date": "09 August 2021"
+},
+{
+  "heading": "Decentralized project management concept for schedule-critical space projects",
+  "authors": "Jaime CamposPhilip Ferguson",
+  "date": "20 July 2021"
+},
+{
+  "heading": "Mechanical responses of folded structures from the generalized Resch patterns",
+  "authors": "Zipeng HeXiang Zhou",
+  "date": "06 July 2021"
+},
+{
+  "heading": "Correction to: End-of-life geostationary satellite removal using realistic flat solar sails",
+  "authors": "Hao MeiChristopher J. DamarenXingqun Zhan",
+  "date": "14 June 2021"
+},
+{
+  "heading": "Flight management system for hydrogen-powered aircraft in cruise",
+  "authors": "Maxim KaptsovLuis Rodrigues",
+  "date": "14 June 2021"
+},
+{
+  "heading": "Satellite ephemeris prediction for the Earth orbiting satellites",
+  "authors": "Vineet K. SrivastavaPadmdeo MishraB. N. Ramakrishna",
+  "date": "27 May 2021"
+},
+{
+  "heading": "A trade-off methodology for micro-launchers",
+  "authors": "G. GovernaleJ. RimaniV. Fernandez Villace",
+  "date": "Open access"
+},
+{
+  "heading": "Different types of star identification algorithms for satellite attitude determination using star sensor",
+  "authors": "Mona ZahednamaziAlireza ToloeiReza Ghasemi",
+  "date": "18 May 2021"
+},
+{
+  "heading": "Verification and test case development method based on civil aircraft operation scenario",
+  "authors": "Hongyu LiMiao WangGuoqing Wang",
+  "date": "10 May 2021"
+},
+{
+  "heading": "Terminal sliding mode velocity control of the electro-hydraulic actuator with lumped uncertainty",
+  "authors": "Qing GuoZhenlei ChenDan Jiang",
+  "date": "03 May 2021"
+},
+{
+  "heading": "End-of-life geostationary satellite removal using realistic flat solar sails",
+  "authors": "Hao MeiChristopher J. DamarenXingqun Zhan",
+  "date": "19 April 2021"
+},
+{
+  "heading": "Development turbine air-cooling system of GTE to increase its operating parameters",
+  "authors": "Ivan MalinovskiyValery NesterenkoKirill Belov",
+  "date": "16 April 2021"
+},
+{
+  "heading": "Design and computational fluid dynamics analysis of bio-inspired non slender cropped delta wingsuit",
+  "authors": "Sushil ChandraAejit Tripathi",
+  "date": "07 April 2021"
+},
+{
+  "heading": "Recursive optimal linear attitude estimator based on star sensor and gyro",
+  "authors": "Guangtan XuDeren GongDengping Duan",
+  "date": "22 March 2021"
+},
+{
+  "heading": "Multiband image fusion using total generalized variation regularization",
+  "authors": "Jun LiangHan PanLingfeng Qiao",
+  "date": "04 March 2021"
+},
+{
+  "heading": "Substantiation of choosing rational appearance of nose of aircraft with the use of mathematical modeling",
+  "authors": "A. V. BarabanovS. A. Serebryansky",
+  "date": "22 February 2021"
+},
+{
+  "heading": "PBN operation advantage analysis over conventional navigation",
+  "authors": "Ding GuoDan Huang",
+  "date": "19 February 2021"
+},
+{
+  "heading": "Application of mathematical modeling to solve the emergency water landing task in the interests of passenger aircraft certification",
+  "authors": "A. S. KozelkovM. A. PogosyanN. V. Tarasova",
+  "date": "01 February 2021"
+},
+{
+  "heading": "Harmonic balance analysis and simulations of spacecraft rendezvous and formation flying dynamics",
+  "authors": "Ayansola D. Ogundele",
+  "date": "01 February 2021"
+},
+{
+  "heading": "An enhanced situational awareness design for airborne surveillance based on Automatic Dependent Surveillance–Broadcast",
+  "authors": "Wenhao ZhaoMiao WangGuoqing Wang",
+  "date": "01 February 2021"
+},
+{
+  "heading": "Effect of tip injection on the flow characteristics of an aeroengine compressor rotor",
+  "authors": "Yidan LiChao FangXiaohua Liu",
+  "date": "14 January 2021"
+},
+{
+  "heading": "Adaptive filter based on Monte Carlo method to improve the non-linear target tracking in the radar system",
+  "authors": "Khaireddine ZaraiAdnane Cherif",
+  "date": "14 January 2021"
+},
+{
+  "heading": "Aerial image detection and recognition system based on deep neural network",
+  "authors": "Shizhao ZhangHongya TuoZhongliang Jing",
+  "date": "03 January 2021"
+},
+{
+  "heading": "Behavior of mixing enhancement in microscale shock cylindrical bubble interaction",
+  "authors": "Zi’ang WangBin YuHong Liu",
+  "date": "02 January 2021"
+},
+{
+  "heading": "Analysis of BDS GEO satellite multipath effect for GNSS integrity monitoring in civil aviation",
+  "authors": "Jin ChangXingqun ZhanKui Lin",
+  "date": "Open access"
+},
+{
+  "heading": "Analysis and experimental study on different airfoils in heavy unmanned aerial vehicle",
+  "authors": "Zheng LiDixin Wang",
+  "date": "20 November 2020"
+},
+{
+  "heading": "State-based safety analysis method for dynamic evaluation of failure effect",
+  "authors": "Yuqian WuGang XiaoMiao Wang",
+  "date": "Open access"
+},
+{
+  "heading": "Spatio-temporal graph convolutional neural network for remaining useful life estimation of aircraft engines",
+  "authors": "Mengni WangYuanxiang LiLei Jia",
+  "date": "Open access"
+},
+{
+  "heading": "Adaptive fading factor unscented Kalman filter with application to target tracking",
+  "authors": "Peng GuZhongliang JingLiangbin Wu",
+  "date": "Open access"
+},
+{
+  "heading": "Attitude dynamic tracking control of an agile satellite using a fixed-structured H∞ synthesis method",
+  "authors": "Junyi ChenBaomin FengBei Lu",
+  "date": "11 November 2020"
+},
+{
+  "heading": "Attitude control strategy of airship based on active disturbance rejection controller",
+  "authors": "Rucheng LeXiaoliang WangYang Wu",
+  "date": "04 November 2020"
+},
+{
+  "heading": "Adaptive Radau pseudo-spectral optimization for descending trajectory of a hypersonic cruise vehicle",
+  "authors": "Xinle FengYali LvYuankai Li",
+  "date": "02 November 2020"
+},
+{
+  "heading": "An analysis of global ionospheric disturbances and scintillations during the strong magnetic storm in September 2017",
+  "authors": "Xin SongRong YangXingqun Zhan",
+  "date": "01 November 2020"
+},
+{
+  "heading": "Aerial computing—security from missile threats and enhancing PUE",
+  "authors": "A. A. Periola",
+  "date": "19 October 2020"
+},
+{
+  "heading": "Investigation of the effects of angle of attack and tail deflection angle on the controlling tail flow field",
+  "authors": "Ali MokhtariAzadeh ShahrianMaryam Ghodrat",
+  "date": "19 October 2020"
+},
+{
+  "heading": "Characterization and mitigation of multipath fading on multi-frequency GNSS signals in urban environment",
+  "authors": "Rong YangXingqun ZhanJihong Huang",
+  "date": "19 October 2020"
+},
+{
+  "heading": "Planning of arrival and departure routes in terminal maneuvering area based on high dimensionality reduction environment modeling method",
+  "authors": "Siyu SuYouchao SunHaiyun Yang",
+  "date": "13 October 2020"
+},
+{
+  "heading": "Visual odometry errors and fault distinction for integrity monitoring",
+  "authors": "Yuanwen FuShizhuang WangXingqun Zhan",
+  "date": "14 September 2020"
+},
+{
+  "heading": "Space infrared tracking of a hypersonic cruise vehicle using an adaptive scaling UKF",
+  "authors": "Jiahui LiuQi LuoYuankai Li",
+  "date": "05 September 2020"
+},
+{
+  "heading": "Navigation information augmented artificial potential field algorithm for collision avoidance in UAV formation flight",
+  "authors": "Huahua LiuHugh H. T. LiuXingqun Zhan",
+  "date": "27 August 2020"
+},
+{
+  "heading": "Aerodynamic efficacy of adding yaw-wise rotational degree of freedom to an airplane flap",
+  "authors": "Kazuhisa ChibaTatsuro KomatsuTakeshi Ito",
+  "date": "Open access"
+},
+{
+  "heading": "Unscented Kalman filter-based method for spacecraft navigation using resident space objects",
+  "authors": "Matthew DriedgerMichael RososhanskyPhilip Ferguson",
+  "date": "18 August 2020"
+},
+{
+  "heading": "Feature-based visual navigation integrity monitoring for urban autonomous platforms",
+  "authors": "Shizhuang WangXingqun ZhanYawei Zhai",
+  "date": "13 August 2020"
+},
+{
+  "heading": "Formation control of a second-order UAVs system under switching topology with obstacle/collision avoidance",
+  "authors": "Shaoyang MuPingfang ZhouJiwei Tang",
+  "date": "05 August 2020"
+},
+{
+  "heading": "Design and implementation of infrared/laser dual-mode compound detection system",
+  "authors": "Sheng SongWeiming XuRong Shu",
+  "date": "15 June 2020"
+},
+{
+  "heading": "Dynamics of orbital boost maneuver of low Earth orbit satellites by electrodynamic tethers",
+  "authors": "Jinyu LiuXingqun ZhanShizhuang Wang",
+  "date": "26 May 2020"
+},
+{
+  "heading": "Airship skin strain measurement based on adaptive digital image correlation",
+  "authors": "Jun-kai RuanQuan-bao WangDeng-ping Duan",
+  "date": "20 May 2020"
+},
+{
+  "heading": "Modelling and simulation of the power subsystem of a low earth orbit CubeSat",
+  "authors": "Varsha ParthasarathyPhilip Ferguson",
+  "date": "18 May 2020"
+},
+{
+  "heading": "Observer design for linear models of multi-rate asynchronous aerospace systems",
+  "authors": "Miad MoarrefLuis Rodrigues",
+  "date": "04 May 2020"
+},
+{
+  "heading": "Optimization of vertical stabilizer structure diagram",
+  "authors": "Tytaev ErikYu Yin",
+  "date": "29 April 2020"
+},
+{
+  "heading": "Research on refraction error correction of digital image correlation technology in strain measurement of airship skin",
+  "authors": "Liuyue ZhaoQuanbao WangDengping Duan",
+  "date": "03 April 2020"
+},
+{
+  "heading": "Dynamics and stabilization of flexible spacecraft structures with magnetic coil-pair actuators",
+  "authors": "Bryan PawlinaChristopher J. Damaren",
+  "date": "24 March 2020"
+},
+{
+  "heading": "Influence of non-uniform inflow swirl and hot streak on turbine vane",
+  "authors": "Xiuhe ZhangFang Chen",
+  "date": "19 March 2020"
+},
+{
+  "heading": "Fault isolation of reaction wheels onboard three-axis controlled in-orbit satellite using ensemble machine learning",
+  "authors": "Afshin RahimiAtilla Saadat",
+  "date": "17 March 2020"
+},
+{
+  "heading": "The numerical simulation of fatigue crack propagation in Inconel 718 alloy at different temperatures",
+  "authors": "Chi DuanXiuhua ChenRuowei Li",
+  "date": "09 March 2020"
+},
+{
+  "heading": "Control strategy design for forced fly-around against the tumbling target based on differential geometric principle",
+  "authors": "Yuanhe LiuYan’gang LiangJiu-tian Li",
+  "date": "19 February 2020"
+},
+{
+  "heading": "Comparison of the Legendre–Gauss pseudospectral and Hermite–Legendre–Gauss–Lobatto methods for low-thrust spacecraft trajectory optimization",
+  "authors": "Sanjeev NarayanaswamyChristopher J. Damaren",
+  "date": "14 January 2020"
+},
+{
+  "heading": "Transceiver pseudolite carrier frequency self-alignment closed-loop system",
+  "authors": "Tong WuXingqun ZhanXin Zhang",
+  "date": "10 December 2019"
+},
+{
+  "heading": "The evolution of wingtip vortex wandering: a stability analysis based on stereo-PIV experiment",
+  "authors": "Siyi QiuYang XiangHong Liu",
+  "date": "27 November 2019"
+},
+{
+  "heading": "An integrated fault detection and exclusion scheme to support aviation navigation",
+  "authors": "Yawei ZhaiXingqun ZhanJin Chang",
+  "date": "20 November 2019"
+},
+{
+  "heading": "Unsupervised satellite image classification based on partial transfer learning",
+  "authors": "Jian HuHongya TuoZhongliang Jing",
+  "date": "20 November 2019"
+},
+{
+  "heading": "Control parameters design of spacecraft formation flying via modified biogeography-based optimization",
+  "authors": "Tianfu ChenDexin ZhangXiaowei Shao",
+  "date": "08 November 2019"
+},
+{
+  "heading": "A method for flight test subject allocation on multiple test aircrafts based on improved genetic algorithm",
+  "authors": "Yibo LiuGang XiaoTao Li",
+  "date": "07 November 2019"
+},
+{
+  "heading": "Nonlinear optimal control for autonomous hypersonic vehicles",
+  "authors": "G. RigatosP. WiraL. Dala",
+  "date": "07 November 2019"
+},
+{
+  "heading": "Aerothermal characteristics of transonic over-tip leakage flow for different tip geometries with cooling injection",
+  "authors": "Mingxing TangShaopeng LuJinfang Teng",
+  "date": "06 November 2019"
+},
+{
+  "heading": "Fusion object detection of satellite imagery with arbitrary-oriented region convolutional neural network",
+  "authors": "Ying YaHan PanLingfeng Qiao",
+  "date": "06 November 2019"
+},
+{
+  "heading": "Acceleration control of a multi-rotor UAV towards achieving microgravity",
+  "authors": "Siddhardha KedarisettyJoel George Manathara",
+  "date": "09 October 2019"
+},
+{
+  "heading": "Effect of nucleation and icing evolution on run-back freezing of supercooled water droplet",
+  "authors": "Mingming SunWeiliang KongHong Liu",
+  "date": "09 October 2019"
+},
+{
+  "heading": "Increasing relative angular velocity for air combat in zero gravity",
+  "authors": "Bill DengTimothy Collier",
+  "date": "30 August 2019"
+},
+{
+  "heading": "Application of mathematical modeling for certification of superjet-100 airplane",
+  "authors": "M. A. PogosyanA. A. RyabovM. S. Litvinov",
+  "date": "07 August 2019"
+},
+{
+  "heading": "Numerical investigation on aircraft wing stiffener composite material integration",
+  "authors": "Mohamed Montassar DogguiWael TouihriMoez Chafra",
+  "date": "04 June 2019"
+},
+{
+  "heading": "Error characteristics analysis and calibration testing for MEMS IMU gyroscope",
+  "authors": "Pengyu ZhangXingqun ZhanLingxiao Zheng",
+  "date": "04 June 2019"
+},
+{
+  "heading": "Phased microphone array for sound source localization with deep learning",
+  "authors": "Wei MaXun Liu",
+  "date": "14 May 2019"
+},
+{
+  "heading": "Reynolds number influence on the backpressure-induced shock–boundary layer interaction in an asymmetric supersonic expansion flow",
+  "authors": "Yuan JiMiaosheng HeHong Liu",
+  "date": "17 April 2019"
+},
+{
+  "heading": "A review on kinematic analysis and dynamic stable control of space flexible manipulators",
+  "authors": "Zhongliang JingQimin XuJianzhe Huang",
+  "date": "28 February 2019"
+},
+{
+  "heading": "Modeling hybrid polymer–nanometal lightweight structures",
+  "authors": "Bharat BhagaCraig A. Steeves",
+  "date": "05 February 2019"
+},
+{
+  "heading": "A numerical study of the dynamic properties of Miura folded metamaterials",
+  "authors": "Dapeng ZhangBin JiXiang Zhou",
+  "date": "17 January 2019"
+},
+{
+  "heading": "OPD analysis and prediction in aero-optics based on dictionary learning",
+  "authors": "Zijia LiYuanxiang LiHong Liu",
+  "date": "17 December 2018"
+},
+{
+  "heading": "Transition control of the Blasius boundary layer using passivity",
+  "authors": "Christopher J. Damaren",
+  "date": "17 December 2018"
+},
+{
+  "heading": "Modal equivalent method of full-area membrane and grid membrane",
+  "authors": "Yibei ZhangWujun ChenFujun Peng",
+  "date": "10 December 2018"
+},
+{
+  "heading": "Effect of elastic properties dependence of the stress state in composite materials",
+  "authors": "A. N. FedorenkoB. N. Fedulov",
+  "date": "06 December 2018"
+},
+{
+  "heading": "Architecture options estimate for the near-medium-haul aircraft control system by the reliability, mass and power consumption criteria",
+  "authors": "S. E. PostnikovA. A. TrofimovS. V. Baikov",
+  "date": "06 December 2018"
+},
+{
+  "heading": "A two-step strategy to fuse the height measurements of quadrotors: theoretical analysis and experimental verifications",
+  "authors": "Qiang WangYouzhi YangBo Zhu",
+  "date": "04 December 2018"
+},
+{
+  "heading": "Numerical and experimental investigations of compressed stiffened composite panel with local impact damage",
+  "authors": "A. A. RyabovO. V. VoronkovV. G. Slobodchikov",
+  "date": "04 December 2018"
+},
+{
+  "heading": "Modeling of manufacturing of thermoplastic composites and residual stress prediction",
+  "authors": "B. N. Fedulov",
+  "date": "30 November 2018"
+},
+{
+  "heading": "On aeroelastic response of an airfoil under dynamic stall using time delay neural network",
+  "authors": "Zhan QiuFuxin Wang",
+  "date": "26 November 2018"
+},
+{
+  "heading": "Research on route planning based on performance constraints for UAS in battlefield",
+  "authors": "Bowen Liu",
+  "date": "26 November 2018"
+},
+{
+  "heading": "Research on safety modeling and analysis in information fusion system",
+  "authors": "Gang XiaoYanran WangFang He",
+  "date": "21 November 2018"
+},
+{
+  "heading": "Supersonic cruise flight of Vth generation fighters",
+  "authors": "I. BashkirovO. Ogorodnikov",
+  "date": "21 November 2018"
+},
+{
+  "heading": "Atmospheric turbulence detection by PCA approach",
+  "authors": "Qiang ZhangGang XiaoRui-Rui Li",
+  "date": "21 November 2018"
+},
+{
+  "heading": "Structural design and optimization of a morphing wing trailing edge flap",
+  "authors": "Shuai DingXiang Zhou",
+  "date": "13 November 2018"
+},
+{
+  "heading": "Automatic landing system design via multivariable model reference adaptive control",
+  "authors": "Yawen WangQifu LiBei Lu",
+  "date": "09 November 2018"
+},
+{
+  "heading": "An efficient method for nonlinear flutter of the flexible wing with a high aspect ratio",
+  "authors": "Jingbo DuanZhongyuan Zhang",
+  "date": "14 November 2018"
+},
+{
+  "heading": "The system design of the civil aircraft based on NASA systems engineering approach",
+  "authors": "Malika-Sofi AkhmatovaYunona Brotsman",
+  "date": "08 November 2018"
+},
+{
+  "heading": "Ground effect analysis for unmanned lifting rotor through robust finite state inflow model based on adjoint theorem",
+  "authors": "Jianzhe HuangJinshuo Hu",
+  "date": "08 November 2018"
+},
+{
+  "heading": "Adaptive suboptimal H∞ filtering for space-maneuvering target tracking",
+  "authors": "Yuankai LiHan Pan",
+  "date": "20 August 2018"
+},
+{
+  "heading": "Lattice flocking of multi-quadrotor system: an algorithm based on artificial potential field",
+  "authors": "Zian NingLei SongXiaochun Zhang",
+  "date": "28 September 2018"
+},
+{
+  "heading": "Multi-target joint detection, tracking and classification based on random finite set for aerospace applications",
+  "authors": "Zhongliang JingMinzhe LiHenry Leung",
+  "date": "09 November 2018"
+}
+]
