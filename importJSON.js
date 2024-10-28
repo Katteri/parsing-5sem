@@ -1,9 +1,9 @@
-const fs = require('fs');
+const fs = require('fs-extra');
 const path = require('path');
 const sequelize = require('./database');
 const Article = require('./models/Article');
 
-async function parseAndSave(jsonFile, source) {
+async function parseAndSave(jsonFile, sourceId) {
   const rawData = fs.readFileSync(path.resolve(__dirname, jsonFile));
   const articles = JSON.parse(rawData);
 
@@ -24,6 +24,7 @@ async function parseAndSave(jsonFile, source) {
     }
 
     await Article.create({
+      sourceId: sourceId,
       heading,
       authors: authors || null,
       publisher: publisher || null,
@@ -40,11 +41,11 @@ async function parseAndSave(jsonFile, source) {
   try {
     await sequelize.sync();
 
-    await parseAndSave('./json/ibima.json', 'ibima');
-    await parseAndSave('./json/mdpi.json', 'mdpi');
-    await parseAndSave('./json/nature.json', 'nature');
-    await parseAndSave('./json/sd.json', 'sd');
-    await parseAndSave('./json/springer.json', 'springer');
+    await parseAndSave('./json/ibima.json', 1);
+    await parseAndSave('./json/mdpi.json', 2);
+    await parseAndSave('./json/nature.json', 3);
+    await parseAndSave('./json/sd.json', 4);
+    await parseAndSave('./json/springer.json', 5);
 
     console.log('Данные успешно сохранены в базу данных!');
   } catch (error) {

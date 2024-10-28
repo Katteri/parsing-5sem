@@ -1,7 +1,16 @@
 const { DataTypes } = require('sequelize');
 const sequelize = require('../database');
+const Source = require('./Source');
 
 const Article = sequelize.define('Article', {
+  sourceId: {
+    type: DataTypes.INTEGER,
+    references: {
+      model: Source,
+      key: 'id',
+    },
+    allowNull: false
+  },
   heading: {
     type: DataTypes.STRING,
     allowNull: false
@@ -35,5 +44,7 @@ const Article = sequelize.define('Article', {
     allowNull: true
   },
 });
+
+Article.belongsTo(Source, { foreignKey: 'sourceId' });
 
 module.exports = Article;
