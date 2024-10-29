@@ -1,7 +1,6 @@
-const sequelize = require('./database');
-const Source = require('./models/Source');
-const Article = require('./models/Article');
-
+import sequelize from './database.js';
+import Source from './models/Source.js';
+import Article from './models/Article.js';
 
 async function createSources() {
   const sources = [
@@ -17,16 +16,14 @@ async function createSources() {
   }
 }
 
-(async () => {
+export default (async () => {
   try {
     await sequelize.sync({ force: true });
 
     await createSources();
 
-    console.log('База данных и таблицы созданы!');
+    console.log('База данных и таблицы успешно созданы!');
   } catch (error) {
     console.error('Ошибка при создании базы данных:', error);
-  } finally {
-    await sequelize.close();
   }
 })();

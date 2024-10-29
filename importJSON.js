@@ -1,6 +1,6 @@
 const fs = require('fs-extra');
 const path = require('path');
-const sequelize = require('./database');
+const sequelize = require('./database.js');
 const Article = require('./models/Article');
 
 async function parseAndSave(jsonFile, sourceId) {

@@ -1,6 +1,6 @@
-const { DataTypes } = require('sequelize');
-const sequelize = require('../database');
-const Source = require('./Source');
+import { DataTypes } from 'sequelize';
+import sequelize from '../database.js';
+import Source from './Source.js';
 
 const Article = sequelize.define('Article', {
   sourceId: {
@@ -47,4 +47,4 @@ const Article = sequelize.define('Article', {
 
 Article.belongsTo(Source, { foreignKey: 'sourceId' });
 
-module.exports = Article;
+export default Article;

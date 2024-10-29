@@ -1,9 +1,13 @@
-const { Sequelize } = require('sequelize');
+import { Sequelize } from 'sequelize';
 
 const sequelize = new Sequelize({
   dialect: 'sqlite',
-  storage: 'articles.db',
+  storage: './database.sqlite',
+  retry: {
+    max: 5
+  },
+  transactionType: 'IMMEDIATE',
   logging: false,
 });
 
-module.exports = sequelize;
+export default sequelize;
