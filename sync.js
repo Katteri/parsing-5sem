@@ -1,6 +1,7 @@
 import sequelize from './database.js';
 import Source from './models/Source.js';
 import Article from './models/Article.js';
+import TaskStatus from './models/TaskStatus.js';
 
 async function createSources() {
   const sources = [
@@ -8,7 +9,7 @@ async function createSources() {
     { name: 'MDPI', url: 'https://www.mdpi.com/search?sort=pubdate' },
     { name: 'Nature', url: 'https://www.nature.com/nature/research-articles?searchType=journalSearch&sort=PubDate' },
     { name: 'ScienceDirect', url: 'https://www.sciencedirect.com/journal/data-in-brief/issues' },
-    { name: 'Spinger', url: 'https://link.springer.com/journal/42401/articles?filterOpenAccess=false' }
+    { name: 'Springer', url: 'https://link.springer.com/journal/42401/articles?filterOpenAccess=false' }
   ];
 
   for (const sourceData of sources) {

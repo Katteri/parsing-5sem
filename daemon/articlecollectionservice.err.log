@@ -1,0 +1,43 @@
+Ошибка при парсинге данных RequestError: Error: getaddrinfo ENOTFOUND www.mdpi.com
+    at new RequestError (C:\Users\Vivo\node_modules\request-promise-core\lib\errors.js:14:15)
+    at plumbing.callback (C:\Users\Vivo\node_modules\request-promise-core\lib\plumbing.js:87:29)
+    at Request.RP$callback [as _callback] (C:\Users\Vivo\node_modules\request-promise-core\lib\plumbing.js:46:31)
+    at self.callback (C:\Users\Vivo\node_modules\request\request.js:185:22)
+    at Request.emit (node:events:519:28)
+    at Request.onRequestError (C:\Users\Vivo\node_modules\request\request.js:877:8)
+    at ClientRequest.emit (node:events:519:28)
+    at TLSSocket.socketErrorListener (node:_http_client:500:9)
+    at TLSSocket.emit (node:events:519:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  cause: Error: getaddrinfo ENOTFOUND www.mdpi.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'www.mdpi.com'
+  },
+  error: Error: getaddrinfo ENOTFOUND www.mdpi.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'www.mdpi.com'
+  },
+  options: {
+    method: 'GET',
+    url: 'https://www.mdpi.com/search?sort=pubdate&page_no=1&page_count=50&year_from=1996&year_to=2024&view=default',
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36',
+      'Accept-language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7'
+    },
+    json: true,
+    callback: [Function: RP$callback],
+    transform: undefined,
+    simple: true,
+    resolveWithFullResponse: false,
+    transform2xxOnly: false
+  },
+  response: undefined
+}

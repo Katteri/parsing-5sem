@@ -24,7 +24,7 @@ const Article = sequelize.define('Article', {
     allowNull: true
   },
   date: {
-    type: DataTypes.STRING,
+    type: DataTypes.DATE,
     allowNull: true
   }, 
   publisher: {

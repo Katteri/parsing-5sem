@@ -1,0 +1,31 @@
+<service>
+	<id>articlecollectionservice.exe</id>
+	<name>ArticleCollectionService</name>
+	<description>Service to run article collection tasks on schedule.</description>
+	<executable>C:\Program Files\nodejs\node.exe</executable>
+	<argument>--harmony</argument>
+	<argument>C:\Users\Vivo\Desktop\mirea\course-3\parsing\parsing-5sem\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>C:\Users\Vivo\Desktop\mirea\course-3\parsing\parsing-5sem\index.js</argument>
+	<argument>--scriptoptions=</argument>
+	<argument>--log</argument>
+	<argument>ArticleCollectionService wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<logmode>rotate</logmode>
+	<stoptimeout>30sec</stoptimeout>
+	<serviceaccount>
+		<domain>VIVO14</domain>
+		<user>LocalSystem</user>
+		<password></password>
+	</serviceaccount>
+	<workingdirectory>C:\Users\Vivo\Desktop\mirea\course-3\parsing\parsing-5sem</workingdirectory>
+</service>

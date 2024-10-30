@@ -1,0 +1,50 @@
+2024-10-30 10:48:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Vivo\Desktop\mirea\course-3\parsing\parsing-5sem\node_modules\node-windows\lib\wrapper.js --file C:\Users\Vivo\Desktop\mirea\course-3\parsing\parsing-5sem\index.js --scriptoptions= --log "ArticleCollectionService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-10-30 10:48:41 - Started 26072
+2024-10-30 10:55:57 - Stopping articlecollectionservice.exe
+2024-10-30 10:55:57 - ProcessKill 26072
+2024-10-30 10:55:57 - Shutdown exception
+Message:Класс не зарегистрирован
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-10-30 10:56:24 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Vivo\Desktop\mirea\course-3\parsing\parsing-5sem\node_modules\node-windows\lib\wrapper.js --file C:\Users\Vivo\Desktop\mirea\course-3\parsing\parsing-5sem\index.js --scriptoptions= --log "ArticleCollectionService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-10-30 10:56:24 - Started 7256
+2024-10-30 11:01:26 - Stopping articlecollectionservice.exe
+2024-10-30 11:01:26 - ProcessKill 7256
+2024-10-30 11:01:26 - Found child process: 7316 Name: conhost.exe
+2024-10-30 11:01:26 - Found child process: 8764 Name: node.exe
+2024-10-30 11:01:26 - Stopping process 7316
+2024-10-30 11:01:26 - Send SIGINT 7316
+2024-10-30 11:01:26 - SIGINT to 7316 failed - Killing as fallback
+2024-10-30 11:01:26 - Stopping process 8764
+2024-10-30 11:01:26 - Send SIGINT 8764
+2024-10-30 11:01:26 - SIGINT to 8764 failed - Killing as fallback
+2024-10-30 11:01:26 - Stopping process 7256
+2024-10-30 11:01:26 - Send SIGINT 7256
+2024-10-30 11:01:26 - SIGINT to 7256 failed - Killing as fallback
+2024-10-30 11:01:26 - Finished articlecollectionservice.exe
+2024-10-30 12:44:39 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Vivo\Desktop\mirea\course-3\parsing\parsing-5sem\node_modules\node-windows\lib\wrapper.js --file C:\Users\Vivo\Desktop\mirea\course-3\parsing\parsing-5sem\index.js --scriptoptions= --log "ArticleCollectionService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-10-30 12:44:39 - Started 11148
+2024-10-30 12:44:47 - Stopping articlecollectionservice.exe
+2024-10-30 12:44:47 - ProcessKill 11148
+2024-10-30 12:44:47 - Found child process: 12236 Name: conhost.exe
+2024-10-30 12:44:47 - Found child process: 7724 Name: node.exe
+2024-10-30 12:44:47 - Stopping process 12236
+2024-10-30 12:44:47 - Send SIGINT 12236
+2024-10-30 12:44:47 - SIGINT to 12236 failed - Killing as fallback
+2024-10-30 12:44:47 - Stopping process 7724
+2024-10-30 12:44:47 - Send SIGINT 7724
+2024-10-30 12:44:47 - SIGINT to 7724 failed - Killing as fallback
+2024-10-30 12:44:47 - Stopping process 11148
+2024-10-30 12:44:47 - Send SIGINT 11148
+2024-10-30 12:44:47 - SIGINT to 11148 failed - Killing as fallback
+2024-10-30 12:44:47 - Finished articlecollectionservice.exe
+2024-10-30 12:44:48 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Vivo\Desktop\mirea\course-3\parsing\parsing-5sem\node_modules\node-windows\lib\wrapper.js --file C:\Users\Vivo\Desktop\mirea\course-3\parsing\parsing-5sem\index.js --scriptoptions= --log "ArticleCollectionService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-10-30 12:44:48 - Started 12668
