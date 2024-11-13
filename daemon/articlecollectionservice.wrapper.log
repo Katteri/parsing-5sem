@@ -48,3 +48,65 @@ Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInter
 2024-10-30 12:44:47 - Finished articlecollectionservice.exe
 2024-10-30 12:44:48 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Vivo\Desktop\mirea\course-3\parsing\parsing-5sem\node_modules\node-windows\lib\wrapper.js --file C:\Users\Vivo\Desktop\mirea\course-3\parsing\parsing-5sem\index.js --scriptoptions= --log "ArticleCollectionService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
 2024-10-30 12:44:48 - Started 12668
+2024-11-05 22:52:04 - Stopping articlecollectionservice.exe
+2024-11-05 22:52:04 - ProcessKill 12668
+2024-11-05 22:52:05 - Shutdown exception
+Message:Класс не зарегистрирован
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-11-05 22:52:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Vivo\Desktop\mirea\course-3\parsing\parsing-5sem\node_modules\node-windows\lib\wrapper.js --file C:\Users\Vivo\Desktop\mirea\course-3\parsing\parsing-5sem\index.js --scriptoptions= --log "ArticleCollectionService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-11-05 22:52:41 - Started 8852
+2024-11-08 13:31:29 - Stopping articlecollectionservice.exe
+2024-11-08 13:31:29 - ProcessKill 8852
+2024-11-08 13:31:29 - Shutdown exception
+Message:Класс не зарегистрирован
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-11-09 11:00:55 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Vivo\Desktop\mirea\course-3\parsing\parsing-5sem\node_modules\node-windows\lib\wrapper.js --file C:\Users\Vivo\Desktop\mirea\course-3\parsing\parsing-5sem\index.js --scriptoptions= --log "ArticleCollectionService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-11-09 11:00:55 - Started 7364
+2024-11-09 11:02:45 - Stopping articlecollectionservice.exe
+2024-11-09 11:02:45 - ProcessKill 7364
+2024-11-09 11:02:45 - Shutdown exception
+Message:Класс не зарегистрирован
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-11-09 11:04:28 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Vivo\Desktop\mirea\course-3\parsing\parsing-5sem\node_modules\node-windows\lib\wrapper.js --file C:\Users\Vivo\Desktop\mirea\course-3\parsing\parsing-5sem\index.js --scriptoptions= --log "ArticleCollectionService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-11-09 11:04:28 - Started 6588
+2024-11-10 16:56:48 - Stopping articlecollectionservice.exe
+2024-11-10 16:56:48 - ProcessKill 6588
+2024-11-10 16:56:48 - Shutdown exception
+Message:Класс не зарегистрирован
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
