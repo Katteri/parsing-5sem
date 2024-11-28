@@ -1,33 +1,36 @@
 import express from 'express';
 import cors from 'cors';
-import sqlite3 from 'sqlite3';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import sequelize from './database.js';
+import Article from './models/Article.js';
+
+export const PORT = 3000;
 
 const app = express();
 app.use(cors());
 
-const db = new sqlite3.Database('./database.sqlite', (err) => {
-  if (err) {
-    console.error('Error connecting to the database', err);
-  } else {
-    console.log('Connected to the SQLite database.');
+(async () => {
+  try {
+    await sequelize.authenticate();
+    console.log('Connected to database');
+  } catch (error) {
+    console.error('Database connection error', error);
+  }
+})();
+
+app.get('/api/articles', async (req, res) => {
+  try {
+    const articles = await Article.findAll({
+      attributes: ['heading', 'date'],
+    });
+    res.json(articles);
+  } catch (error) {
+    console.error('Fetching articles error:', error);
+    res.status(500).json({ error: 'Server error' });
   }
 });
 
-app.get('/api/articles', (req, res) => {
-  const query = 'SELECT heading, date FROM Articles';
-
-  db.all(query, [], (err, rows) => {
-    if (err) {
-      res.status(500).json({ error: err.message });
-      return;
-    }
-    res.json(rows);
-  });
-});
-
-export const PORT = 3000;
 app.listen(PORT, () => {
   console.log(`Server running on http://localhost:${PORT}`);
 });
@@ -36,6 +39,6 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 app.use(express.static(path.join(__dirname)));
 
-app.get('/api/data', (req, res) => {
+app.get('/api/articles', (req, res) => {
   res.json({ message: "Data from server" });
 });

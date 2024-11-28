@@ -51,7 +51,7 @@ function renderHistogram(articleData) {
 // Function to render the word cloud
 function renderWordCloud(articleData) {
 
-  const notWords = ['a', 'an', 'on', 'for', 'of', 'with', 'in', 'and', 'the', 'that', 'from', 'to', 'by', 'as', 'at', '', 'is', 'are', 'via', 'its', 'd', 'into', 'after'];
+  const notWords = ['a', 'an', 'on', 'for', 'of', 'with', 'in', 'and', 'the', 'that', 'from', 'to', 'by', 'as', 'at', '', 'is', 'are', 'via', 'its', 'd', 'into', 'after', 'among', 'through', 'under', 'against'];
   const wordArray = articleData.flatMap(article => article.heading.split(' ')).reduce((acc, word) => {
     const normalWord = word.toLowerCase().replace(/[(,-1234567890)]/g, "");
     if (!notWords.includes(normalWord)) {
